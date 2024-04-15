@@ -1,5 +1,5 @@
 # Car-Price-Prediction-System
-This repo is a about an ML Project which predicts Car Price based on features such as Name, Company, Fuel Type etc.Model which is used for training is Multiple Linear Regression Getting us an R2 Score  of 88
+This repository hosts a machine learning project focused on predicting car prices based on various features, including the car's name, manufacturer, and fuel type. The predictive model employed for this task is Multiple Linear Regression, which achieved an R² score of 87%, indicating a strong correlation between the selected features and the predicted car prices.
 
 ## Car Price Prediction Pipeline
 ## 1. Data Collection :
