@@ -11,8 +11,11 @@ Model which is used for training is Multiple Linear Regression Getting us an R2 
 ## 2. Data Preprocessing:
 * Clean the data by handling missing values,duplicates,datatype correction,vague data, outliers, and inconsistencies.
   
-2. Exploratory Data Analysis (EDA):
-Data Visualization: Explore and visualize the relationships between different features and the target variable (Car Price).
+## 3. Exploratory Data Analysis (EDA):
+* Explore and visualize the relationships between different features and the target variable (Car Price).
+* EDA  helps us to get valuable insights about  the data and outliers are easily spotted.
+* Box Plots,Dist Plots,Histograms and Scatter Plots  were used for the same purpose.
+## 4.Feature Engineering :
 Feature Engineering: Create new features, encode categorical variables, and normalize numerical features if necessary.
 3. Data Splitting:
 Train-Test Split: Split the dataset into training and testing sets to evaluate the model's performance.
